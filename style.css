@@ -1,0 +1,39 @@
+*{
+	font-family:sans-serif;
+	text-decoration:none;
+	padding-left:15px;
+	padding-top:15px;
+	padding-bottom:10px;
+}
+table{
+	width:400px;
+	border-spacing:10px;
+}
+.small{
+    font-size:10px;
+}
+
+h2{
+	padding:0px;
+	margin:0px;
+    padding-top:10px;
+    color:green;
+    text-align:left;
+}
+
+h1{
+	text-align:center;
+	display:inline-block;
+	font-size:50px;
+	margin-top:10px;
+}
+
+h1:hover{
+	font-size:80px;
+	color:red;
+}
+
+ol{
+	padding-left:30px;
+	border-spacing:15px;
+}
